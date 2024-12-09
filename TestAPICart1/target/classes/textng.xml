@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite">
+    <test name="TestAPICart1">
+        <classes>
+            <class name="com.juaracoding.Tetsgetallproduct" />
+            <class name="com.juaracoding.GetaSingleProduct" />
+            <class name="com.juaracoding.LimitResultsTest" />
+            <class name="com.juaracoding.SortResults" />
+            <class name="com.juaracoding.GetinDateRange" />
+            <class name="com.juaracoding.AddNewCart" />
+        </classes>
+    </test>
+</suite>
